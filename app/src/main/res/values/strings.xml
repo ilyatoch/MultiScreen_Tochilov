@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiScreen_Tochilov</string>
+    <string name="ar">Флаг Аргентины</string>
+    <string name="br">Флаг Бразилии</string>
+    <string name="ch">Флаг Чили</string>
+    <string name="co">Флаг Колумбии</string>
+    <string name="ur">Флаг Уругвая</string>
+</resources>
